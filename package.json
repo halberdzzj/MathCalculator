@@ -7,5 +7,13 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "ZZJ",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/halberdzzj/MathCalculator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/halberdzzj/MathCalculator/issues"
+  },
+  "homepage": "https://github.com/halberdzzj/MathCalculator#readme"
 }
